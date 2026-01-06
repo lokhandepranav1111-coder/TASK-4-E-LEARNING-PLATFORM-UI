@@ -97,9 +97,10 @@ A Completion Certificate will be issued on the internship end date, after evalua
 
 👨‍💻 Developer Information
 
-Name: Muwaz Khan
+Name: PRANAV LOKHANDE
 Role: Front-End Developer
 Internship: CODTECH
-Intern ID – B01FAAF2AC202E65
+Intern ID – A248A838B9916E6C
+
 
 
